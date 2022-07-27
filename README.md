@@ -1,1 +1,1 @@
-Creating a virtual environment with basic applications in Python.
+Creating Python Virtual Environment with basic applications.
